@@ -1,1 +1,1 @@
-# cqrs-api
+# Command Query Reponsibility Segregation (CQRS)
