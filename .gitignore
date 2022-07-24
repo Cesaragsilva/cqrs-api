@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Cqrs.API/.vs/Cqrs.API
+/Cqrs.API/Cqrs.API/bin/Debug/net6.0
+/Cqrs.API/Cqrs.API/obj
+/Cqrs.API/Cqrs.Application/bin/Debug/net6.0
+/Cqrs.API/Cqrs.Application/obj
+/Cqrs.API/Cqrs.Infraestructure/bin/Debug/net6.0
+/Cqrs.API/Cqrs.Infraestructure/obj
